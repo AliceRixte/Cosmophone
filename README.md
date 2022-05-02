@@ -1,2 +1,2 @@
 # Cosmophone
-An experimental additive synthetizer
+An experimental additive synth.
